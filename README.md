@@ -1,4 +1,4 @@
-# Integrating-DLL-in-ahybrid-architecture
+# Integrating DLL in a hybrid architecture
 Thesis Implementation: Neuro-Symbolic AI for Legal Concept Drift Detection, GISMA University, 2025
 
 This repo accompanies my NSAI dissertation submission and demos how defeasible deontic logic combines with neuro‑symbolic AI to spot legal concept drift across regulatory frameworks.
